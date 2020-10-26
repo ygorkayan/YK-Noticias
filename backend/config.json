@@ -1,0 +1,14 @@
+{
+  "localhost": "localhost",
+  "user": "root",
+  "password": "95825541",
+  "database": "noticias",
+  "porta": 4000,
+  "msgDbOnline": "Banco de Dados Online",
+  "msgServidorOnline": "Servidor Online, porta 4000",
+  "caminhoAbsolutoPastaStatic": "C:/Users/Ygor Kayan/Programaçao/noticias/backend/src/Static",
+  "criptografiaSalt": 10,
+  "host": "ygorkayan.com.br",
+  "email": "contato@ygorkayan.com.br",
+  "senhaEmail": "Python.95825541"
+}
