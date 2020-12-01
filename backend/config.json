@@ -8,7 +8,7 @@
   "msgServidorOnline": "Servidor Online, porta 4000",
   "caminhoAbsolutoPastaStatic": "",
   "criptografiaSalt": 10,
-  "host": "ygorkayan.com.br",
+  "host": "",
   "email": "",
   "senhaEmail": ""
 }
